@@ -1,7 +1,7 @@
 # ONI-Old-mods-for-DLC
 A way to get older mods to maybe work in the DLC, until the mod maker releases an official update.
 
-**Parts of this guide was copied or have gotten inspired from [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md).
+**Parts of this guide was copied or have gotten inspired from [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md).**
 
 
 ## Disclaimer
@@ -25,7 +25,7 @@ Image sourced by: [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMo
   Replace `user name` with your user name.
 * Linux: `~/.config/unity3d/Klei/Oxygen Not Included/mods/Local`
 
-**If the "local" folder isnt present, then create it yourself.
+**If the "local" folder isnt present, then create it yourself.**
 
 **Do not use a Steam copy and a local copy of the same mod at the same time.** Disable the Steam version in the mods list before activating any local copies.
 
