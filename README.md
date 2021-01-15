@@ -15,6 +15,7 @@ I nor the mod makers, take **NO** resposibility of ruined maps, faulty/flawed ex
 ## Locate or create the "local" mod folder
 
 ![Location where local mods should be installed](https://github.com/peterhaneve/ONIMods/blob/main/Docs/localmods.png)
+
 Image sourced by: [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md)
 
 * Windows: `%USERPROFILE%\Documents\Klei\OxygenNotIncluded\mods\local`
@@ -33,6 +34,7 @@ Image sourced by: [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMo
 The mod you already have installed from Steam, will be located in a folder in the "Steam" folder in the "mods" folder.
 
 ![Location where Steam mods should be installed](https://github.com/peterhaneve/ONIMods/blob/main/Docs/steammodsfolder.png)
+
 Image sourced by: [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md)
 
 * Windows: `%USERPROFILE%\Documents\Klei\OxygenNotIncluded\mods\Steam`
