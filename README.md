@@ -4,7 +4,7 @@ A way to get older mods to maybe work in the DLC, until the mod maker releases a
 **Parts of this guide was copied or have gotten inspired from [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md).
 
 
-##Disclaimer
+## Disclaimer
 This is a trick, and it doenst work with all mods. With the release of the DLC, some things have changed, and thereby it is probably only a few and simple mods this trick works with.
 
 Bigger and more complex mods may interact with the game code that have been changed, and may (most likely will) result in wierd game experiences or the game crashing.
@@ -12,7 +12,7 @@ Bigger and more complex mods may interact with the game code that have been chan
 I nor the mod makers, take **NO** resposibility of ruined maps, faulty/flawed execution of the trick or any other kind. Use of this trick is completely on your own risk.
 
 
-##Locate or create the "local" mod folder
+## Locate or create the "local" mod folder
 
 Steam users: Before trying a local download or reporting an issue, use [Mod Updater](https://steamcommunity.com/sharedfiles/filedetails/?id=2018291283) to see if the mod is out of date.
 
@@ -30,7 +30,7 @@ Image sourced by: [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMo
 **Do not use a Steam copy and a local copy of the same mod at the same time.** Disable the Steam version in the mods list before activating any local copies.
 
 
-##Locate the mod you want
+## Locate the mod you want
 
 The mod you already have installed from Steam, will be located in a folder in the "Steam" folder in the "mods" folder.
 
@@ -55,7 +55,7 @@ When the folder is copied from the Steam mod folder to the local folder, and ren
 
 
 
-##Lastly
+## Lastly
 Once that is done, you just have to open steam, start ONI, go to mods and enable the mod(s) you want to play with.
 
 Once the mods on steam gets updated, you should disable and preferebly delete the mod from the local mod folder, and use the mod from steam, since the mods in the local mod folder wont get any updates.
