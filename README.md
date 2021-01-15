@@ -14,8 +14,6 @@ I nor the mod makers, take **NO** resposibility of ruined maps, faulty/flawed ex
 
 ## Locate or create the "local" mod folder
 
-Steam users: Before trying a local download or reporting an issue, use [Mod Updater](https://steamcommunity.com/sharedfiles/filedetails/?id=2018291283) to see if the mod is out of date.
-
 ![Location where local mods should be installed](https://github.com/peterhaneve/ONIMods/blob/main/Docs/localmods.png)
 Image sourced by: [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md)
 
