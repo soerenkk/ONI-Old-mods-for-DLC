@@ -1,7 +1,7 @@
 # ONI-Old-mods-for-DLC
 A way to get older mods to maybe work in the DLC, until the mod maker releases an official update.
 
-**Parts of this guide was copied or have gotten inspired from [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md).**
+**Parts of this guide was copied or have gotten inspiration from [Peter Han (peterhaneve)](https://github.com/peterhaneve/ONIMods/blob/main/README.md).**
 
 
 ## Disclaimer
