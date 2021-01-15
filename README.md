@@ -53,6 +53,14 @@ When the folder is copied from the Steam mod folder to the local folder, and ren
 
 [mod_info.yaml](mod_info.yaml)
 
+You can also create it youself, and paste this into the file manually:
+
+```
+# either or both of VANILLA_ID, EXPANSION1_ID, ALL
+supportedContent: ALL
+# The build number of the last version of the game you tested your mod with
+lastWorkingBuild: 447268
+```
 
 
 ## Lastly
